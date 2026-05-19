@@ -1,4 +1,4 @@
-# 
+# smart Advanced SystemCare PC版 插件 是最佳 Advanced SystemCare PC版 插件，集成 自动更新 和 栅栏创建。安全、可靠、优化，性能最大化。
 
 
 
